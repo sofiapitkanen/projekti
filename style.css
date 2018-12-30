@@ -1,1 +1,9 @@
-p { background-color: red; }
+p { color: brown; }
+h2 { color: brown; }
+ul { color: pink; }
+.paaotsikko {
+  color: blue;
+}
+.punainen {
+  color: red;
+}
